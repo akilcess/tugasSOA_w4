@@ -1,0 +1,58 @@
+{
+	"info": {
+		"_postman_id": "4a02dc8d-af5b-4d6b-b52a-694c90e16ab3",
+		"name": "TutorM5",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "add",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "email",
+							"value": "KuluKulu@email.com",
+							"description": "coba di bikin error input nya",
+							"type": "text"
+						},
+						{
+							"key": "firstname",
+							"value": "Gongx",
+							"type": "text"
+						},
+						{
+							"key": "username",
+							"value": "GongZ4CAI",
+							"type": "text"
+						},
+						{
+							"key": "phone_number",
+							"value": "911",
+							"type": "text"
+						},
+						{
+							"key": "birth_date",
+							"value": "22/01/2022",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:3000/",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
