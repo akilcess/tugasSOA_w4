@@ -20,8 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `tutor_soa_m5`
 --
-CREATE DATABASE IF NOT EXISTS `tutor_soa_m5` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `tutor_soa_m5`;
+CREATE DATABASE IF NOT EXISTS `tugasminggu4` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `tugasminggu4`;
 
 -- --------------------------------------------------------
 
